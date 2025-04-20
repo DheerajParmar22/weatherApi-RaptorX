@@ -1,0 +1,15 @@
+asgiref==3.8.1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+Django==5.2
+django-ratelimit==4.0.0
+dotenv==0.9.9
+gunicorn==23.0.0
+idna==3.10
+packaging==25.0
+python-dotenv==1.1.0
+ratelimit==2.2.1
+requests==2.32.3
+sqlparse==0.5.3
+tzdata==2025.2
+urllib3==2.4.0
