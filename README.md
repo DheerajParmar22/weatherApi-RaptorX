@@ -5,7 +5,7 @@ This project is a Django-based Weather API that fetches real-time weather data b
 ### 🚀 Live Demo
 
 Check it out live on Render:  
-👉 [https://weatherapi-raptorx.onrender.com/weather-by-ip?ip=45.115.190.20](https://weatherapi-raptorx.onrender.com/weather-by-ip?ip=<your-ip-address>)
+👉 [https://weatherapi-raptorx.onrender.com/weather-by-ip?ip=45.115.190.20](https://weatherapi-raptorx.onrender.com/weather-by-ip?ip=45.115.190.20)
 
 ---
 
