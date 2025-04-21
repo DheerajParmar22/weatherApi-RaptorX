@@ -83,22 +83,22 @@ GET /weather-by-ip?ip=<IP_ADDRESS>
 ### Example:
 
 ```bash
-curl https://weatherapi-raptorx.onrender.com/weather-by-ip?ip=101.178.192.51
+curl https://weatherapi-raptorx.onrender.com/weather-by-ip?ip=45.115.190.20
 ```
 
 ### Response:
 
 ```bash
 {
-  "ip": "101.178.192.51",
+  "ip": "45.115.190.20",
   "location": {
-    "city": "Jaipur",
-    "country": "India"
+    "city": "Dādri",
+    "country": "IN"
   },
   "weather": {
-    "temperature": 33.5,
-    "humidity": 45,
-    "description": "clear sky"
+    "temperature": 27.67,
+    "humidity": 24,
+    "description": "few clouds"
   }
 }
 ```
